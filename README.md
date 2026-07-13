@@ -1,4 +1,9 @@
 # MULTI-MARKETMAKER-SIGMA
+
+<img width="304" height="625" alt="image" src="https://github.com/user-attachments/assets/dc79b414-762d-491a-a5d3-22ef96a78758" />
+
+
+
 A multi-level market making trading engine written in Python for Kraken.
 MULTI-MARKETMAKER-SIGMA
 Core Strategy Rules
